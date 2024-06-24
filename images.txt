@@ -1,4 +1,5 @@
-ubuntu:20.04
+cnflysky/redroid-rk3588:12.0.0-latest
+#ubuntu:20.04
 #scavin/ws-scrcpy
 #alpine
 #nginx
