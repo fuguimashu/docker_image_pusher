@@ -1,4 +1,5 @@
-rustdesk/rustdesk-server
+cnflysky/redroid-rk3588:13.0.0-lineage
+#rustdesk/rustdesk-server
 #iceblacktea/redroid-arm64:12.0.0-240328
 #cnflysky/redroid-rk3588:13.0.0-latest
 #xubiaolin/zerotier-planet:latest
