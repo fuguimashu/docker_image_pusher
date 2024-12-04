@@ -1,4 +1,3 @@
-shangzebei/rk3588
 #registry
 #portainer/portainer-ce:sts
 #portainer/portainer
