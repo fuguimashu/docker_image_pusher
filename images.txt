@@ -1,4 +1,5 @@
-portainer/portainer-ce:sts
+registry
+#portainer/portainer-ce:sts
 #portainer/portainer
 #cnflysky/redroid-rk3588:13.0.0-lineage
 #rustdesk/rustdesk-server
